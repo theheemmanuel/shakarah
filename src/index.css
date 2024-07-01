@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.cart-pic {
+  background: radial-gradient(
+    50.33% 50.33% at 49.84% 44.15%,
+    rgba(247, 247, 247, 0) 0%,
+    rgba(247, 247, 247, 0) 21.54%,
+    #f7f7f7 100%
+  );
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
